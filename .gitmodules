@@ -1,0 +1,4 @@
+[submodule "bookdrifting"]
+	path = bookdrifting
+	url = https://github.com/ivanxia/bookdrifting
+        branch = master
